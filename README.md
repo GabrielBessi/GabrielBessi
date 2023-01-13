@@ -2,7 +2,7 @@
 
 - 👨‍💻 Sou desenvolvedor Front End
 - 👨‍🎓 Hoje estou estudando back-end
-- 🔭 Em breve serei desenvolvedor FullStack
+- 🔭 Desenvolvedor FullStack em formação
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
