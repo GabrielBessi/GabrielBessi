@@ -1,8 +1,6 @@
 # Olá Dev, seja muito bem-vindo(a) !
 
-- 👨‍💻 Sou desenvolvedor Front End
-- 👨‍🎓 Hoje estou estudando back-end
-- 🔭 Desenvolvedor FullStack em formação
+- 👨‍💻 Sou desenvolvedor Full-Stack
 
 <div align="center">
   <a href="https://github.com/GabrielBessi">
