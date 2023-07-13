@@ -1,7 +1,10 @@
-# Olá Dev, seja muito bem-vindo(a) !
+# Olá, seja muito Bem-Vindo(a) !
 
 - 👨‍💻 Desenvolvedor Full Stack
 - :books: Estudante de Análise e Desenvolvimento de Sistemas
+
+## Formação:
+- :mortar_board: Kenzie Academy Brasil - Desenvolvedor Full Stack
 
 <div align="center">
   <a href="https://github.com/GabrielBessi">
@@ -27,7 +30,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 <div align="center"> 
   <a href = "mailto:tecbessi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielbessi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://drive.google.com/file/d/1ZQDmRMaNJCkA8YA1oj8tKzMFYnX3X5is/view?pli=1" target="_blank"><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/GabrielBessi/GabrielBessi/blob/output/github-contribution-grid-snake.svg)
 </div>
-
